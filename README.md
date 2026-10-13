@@ -1,6 +1,6 @@
 # Aleksei Golikov
 
-Senior QA Automation Engineer focused on mobile, API/backend, and test infrastructure.
+QA Automation Engineer focused on mobile, API/backend, and test infrastructure.
 
 ## Focus
 
