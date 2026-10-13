@@ -15,3 +15,4 @@ QA Automation Engineer focused on mobile, API/backend, and test infrastructure.
 - [kt-appium-harness](https://github.com/Alexmersl/kt-appium-harness) — Kotlin Appium UI test framework with Selenide, UiAutomator2/XCUITest, host ADB, and parallel device leasing.
 - [kt-espresso-harness](https://github.com/Alexmersl/kt-espresso-harness) — Android UI test framework using Espresso, Compose Test, UI Automator, and ADB.
 - [vacancy-radar](https://github.com/Alexmersl/vacancy-radar) — Python application for filtering vacancies from Telegram chats with optional AI-assisted review.
+- [CurrencyConverter](https://github.com/Alexmersl/CurrencyConverter) — Android learning project for practicing Kotlin development and mobile test automation with Espresso, Kaspresso, UI Automator, MockWebServer, and Allure.
